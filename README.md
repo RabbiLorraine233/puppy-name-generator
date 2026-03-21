@@ -1,4 +1,4 @@
-# 汪星人命名所 (Dog Name Generator)
+# 小狗起名器 (Dog Name Generator)
 
 一个简洁温馨的网页小工具，专门通过输入“第一印象”来为小狗寻找合适的名字。
 
