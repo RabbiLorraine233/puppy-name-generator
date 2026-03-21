@@ -19,7 +19,7 @@
 
 本项目已部署至 GitHub Pages，无需下载代码即可直接在浏览器中运行体验。
 
-在线访问地址：[https://RabbiLorraine233.github.io/dog-name-generator/]
+在线访问地址：[https://rabbilorraine233.github.io/puppy-name-generator/]
 
 ---
 注：如果要将本项目克隆到本地，只需下载 index.html 文件并在任意现代浏览器中双击打开即可运行。
